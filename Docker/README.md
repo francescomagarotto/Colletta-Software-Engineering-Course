@@ -5,9 +5,9 @@
 ## Comandi
 Compilazione immagine:
 ```sh
-$ sudo docker build --tag=freelingserver .
+$ docker build --tag=freelingserver .
 ```
 Esecuzione immagine:
 ```sh
-$ sudo docker run 
+$ docker run 
 ```
