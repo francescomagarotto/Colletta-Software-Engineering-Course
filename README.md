@@ -40,7 +40,6 @@ This software is realeased under MIT license.
 * Java: OpenJDK 8 / Oracle JDK 8;
 * Node.js: Node.js 10.15.1;
 * Maven: Maven 3.6.0;
-* Maven: Maven 3.6.0;
 * Docker: Docker at least 18.09.6;  
 * Browser: Any browser which supports Javascript, HTML5 and CSS3.
 
